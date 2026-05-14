@@ -1,0 +1,1583 @@
+{
+  "title": "英语六级核心词 Unit 4",
+  "unit": 4,
+  "count": 174,
+  "source_note": "Unit 1 为先前整理；Unit 2-10 由上传 PDF 图片 OCR 自动提取，存在少量识别错误，建议后续人工校对。",
+  "fields": [
+    "unit",
+    "word",
+    "phonetic",
+    "pos",
+    "cn",
+    "source_page",
+    "ocr_needs_check"
+  ],
+  "words": [
+    {
+      "unit": 4,
+      "word": "supreme",
+      "phonetic": "/su:'prism/",
+      "pos": "adj.",
+      "cn": "CAR A HE te BLA MH) —",
+      "source_page": 13,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "superstition",
+      "phonetic": "/isuipalstufn/",
+      "pos": "n.",
+      "cn": "迷信 | 最高的,至高无上的;(程度)很大的 religion /mhdsony 568 BRAD | Unit 4",
+      "source_page": 13,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "scholar",
+      "phonetic": "‘sknla(r)/",
+      "pos": "n.",
+      "cn": "学者;奖学金获得者 section Yackjny na 部分;部门;(书、报等的)节",
+      "source_page": 13,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "expert",
+      "phonetic": "Vekspat/",
+      "pos": "adj.",
+      "cn": "专家的,内 * 切开;做切片 | 行的 Sector Vsekto(D7 mn,(尤指商业、贸易等的)部",
+      "source_page": 13,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "expertise",
+      "phonetic": "/veksps'tizz/",
+      "pos": "",
+      "cn": "专门知识,专门技能;专长 门:行业;区域 | mentor /mentz(DV mn ,导师;顾问",
+      "source_page": 13,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "segment",
+      "phonetic": "/'segment/",
+      "pos": "n.",
+      "cn": "885s is SHB vb My | tutor Putas) / n .导师,家庭教师 ， 辅导 划分",
+      "source_page": 13,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "professor",
+      "phonetic": "/pro'fesa(r)/",
+      "pos": "adj.",
+      "cn": "级别(或地位)高的;资深 | 教员 的:年长的 让.毕业班学生;老年人",
+      "source_page": 13,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "profession",
+      "phonetic": "/prolfefn/",
+      "pos": "",
+      "cn": "m .职业;行业;表白",
+      "source_page": 13,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "undergraduate",
+      "phonetic": "/vando'grandguot/",
+      "pos": "n.",
+      "cn": "(在读的)大学本科生",
+      "source_page": 13,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "faculty",
+      "phonetic": "/acklti/",
+      "pos": "",
+      "cn": "ni 9 BERLIN) HEBEL AHEM —achelor 。 /\"beetfalas)/ 上未婚男子,单身汉;学十 | 师;天赋;才能",
+      "source_page": 13,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "master",
+      "phonetic": "/ma'sta(D/",
+      "pos": "n.",
+      "cn": "大师,能手;主人,雇主;顶",
+      "source_page": 13,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "colleague",
+      "phonetic": "/kalig/",
+      "pos": "",
+      "cn": "m .同事;同僚 士 \"精通;掌握,控制 | occupy /okjupa ”使用,占用;忙着(做基事)",
+      "source_page": 13,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "masterpiece",
+      "phonetic": "/'marstapiss/",
+      "pos": "n.",
+      "cn": "SAB; RCH) v TUR | Preoccupy 。 /pritokjupat/ v.使全神贰注;使日夜思考， 解,领会 | ‘eta",
+      "source_page": 13,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "adolescent",
+      "phonetic": "/wedollesnt/",
+      "pos": "n.",
+      "cn": "青少年",
+      "source_page": 13,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "confession",
+      "phonetic": "/ken'fefn/",
+      "pos": "n.",
+      "cn": "供认,坦白;承认",
+      "source_page": 13,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "adolescence",
+      "phonetic": "/edallesns/",
+      "pos": "",
+      "cn": "\"青春期;青春",
+      "source_page": 13,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "seminar",
+      "phonetic": "/semmnax(D/",
+      "pos": "",
+      "cn": "nm.(大学教师带领学生作专 。",
+      "source_page": 13,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "idle",
+      "phonetic": "/aadl/",
+      "pos": "adj.",
+      "cn": "不工作的;空亲的;无所事事的",
+      "source_page": 13,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "workshop",
+      "phonetic": "/wskjfop/",
+      "pos": "adj.",
+      "cn": "私有的;秘密的,私人的 | 作坊",
+      "source_page": 13,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "whisper",
+      "phonetic": "/waspa(pD/",
+      "pos": "",
+      "cn": "耳语,低语;谣言 .耳语，",
+      "source_page": 13,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "forum",
+      "phonetic": "/Marrem/",
+      "pos": "",
+      "cn": "论坛,讨论会 低语,小声说",
+      "source_page": 13,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "academic",
+      "phonetic": "/mkodemk/",
+      "pos": "adj.",
+      "cn": "AA, gossip J gpsip/ mn 流言旨语;闲聊;爱说长道短的 | 学业的 人 \"说闲话",
+      "source_page": 13,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "academy",
+      "phonetic": "/alkedemi/",
+      "pos": "",
+      "cn": "专科院校;(艺术、文学,科",
+      "source_page": 13,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "mutter",
+      "phonetic": "/mate(r/",
+      "pos": "",
+      "cn": "rR AGE AS vB 5 | 学等的)研究院;学会 Powe 7m",
+      "source_page": 13,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "epidemic",
+      "phonetic": "/rept'demik/",
+      "pos": "n.",
+      "cn": "423848: ORB EM BIE —",
+      "source_page": 13,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "image",
+      "phonetic": "/mds/",
+      "pos": "adj.",
+      "cn": "流行的 mature /mo'tfua(r); mattjuo(rD)/ adj .成熟的;理",
+      "source_page": 13,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "vaccine",
+      "phonetic": "/vaksin/",
+      "pos": "n.",
+      "cn": "疫苗 智的,明白事理的;成年的;老练的",
+      "source_page": 13,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "immune",
+      "phonetic": "/nmju/",
+      "pos": "adj.",
+      "cn": "有免疫力的;不受影响的，。 premature 。 /iprematla(r)/ adj.过里的;早产的; 仓 | me 促的 | immunise -",
+      "source_page": 13,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "ize",
+      "phonetic": "/nmjunaiz/",
+      "pos": "",
+      "cn": "w,(尤指通过注射疫苗) 使",
+      "source_page": 13,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "moral",
+      "phonetic": "/morel/",
+      "pos": "adj.",
+      "cn": "道德(上)的;品行端正的 | insulate 7/nansjulet \"使隔热;使隔音;使绝缘;使 《mortal 1 maxtl/ adj .凡人的;终有一死的;致俞的 | BRR RO) A",
+      "source_page": 13,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "campus",
+      "phonetic": "/aempas/",
+      "pos": "n.",
+      "cn": "RAE BEM BEB BERK",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "avert",
+      "phonetic": "Jolvat/",
+      "pos": "",
+      "cn": "vik sit $6 SEND RAS) 58 EL",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "campalgn",
+      "phonetic": "/kgem'pein/",
+      "pos": "v.",
+      "cn": "BINGE BH, 交;背过脸 | | 领导运动",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "vert",
+      "phonetic": "/rn'wose/",
+      "pos": "v.",
+      "cn": "CAB) 81 BES BN",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "scope",
+      "phonetic": "/skoup/",
+      "pos": "",
+      "cn": "mn.(活动,书籍等的)范围,领域",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "reverse",
+      "phonetic": "/ravas/",
+      "pos": "",
+      "cn": "相反的情况(或事物);倒挡 | | 机会 ， 闫倒;彻底转变,使反转;倒车;交换",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "terrain",
+      "phonetic": "/talrein/",
+      "pos": "adj.",
+      "cn": "相反的 | realm /relm/ .领域;王国",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "reversible",
+      "phonetic": "/rt'vssabl/",
+      "pos": "adj.",
+      "cn": "可逆的;可翻转的;可两面",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "sphere",
+      "phonetic": "/sfa(D/",
+      "pos": "",
+      "cn": "\"球形;范围,领域 穿的,正反两用的 | domain /",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "da'meins",
+      "phonetic": "dau'mem/",
+      "pos": "n.",
+      "cn": "(知识、活动的)领 。 adverse",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "nedvasi",
+      "phonetic": "ad'vas/",
+      "pos": "adj.",
+      "cn": "不利的;有害的;反 | | 域,范围;领土 面的",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "hemisphere",
+      "phonetic": "/hemusfoCr)/",
+      "pos": "",
+      "cn": "m.(地球或大脑的半球",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "adversary",
+      "phonetic": "/Imdvaseri/",
+      "pos": "",
+      "cn": "nm. CEI Lk HP 1) BEE»",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "atmosphere",
+      "phonetic": "/Nactmosfio(r)/",
+      "pos": "",
+      "cn": "1 大气层;气氛，氛围: 对手 | | 气体",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "versatile",
+      "phonetic": "/ivasatall/",
+      "pos": "adj.",
+      "cn": "多才多艺的;多功能的",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "circumstance",
+      "phonetic": "/'ssikomstans/",
+      "pos": "n.",
+      "cn": "环境;境遇;状况;命运",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "verse",
+      "phonetic": "/vas/",
+      "pos": "",
+      "cn": "请,诗节;韵文,歌曲的段落 | | 客观环境",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "verbal",
+      "phonetic": "/'vabl/",
+      "pos": "adj.",
+      "cn": "口头的,言语的",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "surround",
+      "phonetic": "/setraund/",
+      "pos": "",
+      "cn": "”围绕;围住",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "vocal",
+      "phonetic": "Vivaokl/",
+      "pos": "adj.",
+      "cn": "嗓音的;发声的歌唱的,直",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "mood",
+      "phonetic": "/muxd/",
+      "pos": "",
+      "cn": "m .情绪;气所,氛转 言不讳的",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "climate",
+      "phonetic": "Jelatmot/",
+      "pos": "",
+      "cn": "气候(区);环境气须;风气， ”",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "imovate",
+      "phonetic": "/nevert/",
+      "pos": "",
+      "cn": "\"创新,改革 | | 氛围",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "legend",
+      "phonetic": "/Iledsend/",
+      "pos": "",
+      "cn": "mn传说,传奇故事;传奇人物",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "universe",
+      "phonetic": "/Syuimivats/",
+      "pos": "",
+      "cn": "m室宙;天地万物,万象",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "renovate",
+      "phonetic": "/rensvent/",
+      "pos": "",
+      "cn": "\"修复;面新;重新粉刷",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "unversal",
+      "phonetic": "/jumrvasl/",
+      "pos": "adj.",
+      "cn": "#34 #9; & HE AY, 4 HE evolve avolw \"进化;逐步发展;逐渐演变 | | 界的",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "involve",
+      "phonetic": "/in\\volv/",
+      "pos": "",
+      "cn": "\"涉及;包含,需要;参与",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "widespread",
+      "phonetic": "/'waidspred/",
+      "pos": "adj.",
+      "cn": "分布广的;普遍的,广 revolve /mvolw \"旋转:环绕 | | zt",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "revolution",
+      "phonetic": "/rrevollusfn/",
+      "pos": "",
+      "cn": "nae LE | EAE | anniversary — /ueent'vasari/ nm ,周年纪念日",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "revolt",
+      "phonetic": "Jr'voult/",
+      "pos": "",
+      "cn": "nm BBL si SL Rv HS BR",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "annual",
+      "phonetic": "Peenjual/",
+      "pos": "adj.",
+      "cn": "i661 AF — eH) AE pce | | Bi — PED",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "renaissance",
+      "phonetic": "/m'neisns/",
+      "pos": "",
+      "cn": "nm.(尤指某种艺术形式、音乐形",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "diverse",
+      "phonetic": "/danvas/",
+      "pos": "adj.",
+      "cn": "各种各样的,形形色色的 式等的)复兴",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "divert",
+      "phonetic": "/danvat/",
+      "pos": "",
+      "cn": "”使转向;使绕道;改变;转移",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "revive",
+      "phonetic": "/nivarw/",
+      "pos": "",
+      "cn": "(使)苏醒,使复苏;重新上演 | | CRA ERA",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "vivid",
+      "phonetic": "J'vwerd/",
+      "pos": "adj.",
+      "cn": "A 9 IE AY 5 EB",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "dversion",
+      "phonetic": "/dan'vaiin/",
+      "pos": "",
+      "cn": "m SG 48 0 5 HME RAR HEB",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "survive",
+      "phonetic": "/salvatw/",
+      "pos": "",
+      "cn": "\"生存,幸存,生还 | | 视线(或注意力)的事物",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "relorm",
+      "phonetic": "/ei'form/",
+      "pos": "",
+      "cn": "nm改革,改良 .改革,改进;改",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "comverse",
+      "phonetic": "/kon'vais/",
+      "pos": "adj.",
+      "cn": "相反的“呈相反的事物",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "conform",
+      "phonetic": "Vanifom/",
+      "pos": "",
+      "cn": "\"遵守,遵从;相-一致,相吻合 | | (事实的)反面",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "uniform",
+      "phonetic": "juanaform/",
+      "pos": "",
+      "cn": "AEN TL | controversy /\"",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "kpntrovassis",
+      "phonetic": "kon'trovasi/",
+      "pos": "",
+      "cn": "争议,论战 platform ——/'plactform/ nm站台;讲台;舞台;平台 | | 辩论",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "formula",
+      "phonetic": "/'formjolo/",
+      "pos": "n.",
+      "cn": "公式;配方",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "conversation",
+      "phonetic": "/konvolsetfn/",
+      "pos": "",
+      "cn": "mn.(非正式的)交谈,谈话",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "formulate",
+      "phonetic": "/fxmjulert/",
+      "pos": "",
+      "cn": "，荐定;规划;构想;确切表达",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "convert",
+      "phonetic": "/lan'vat/",
+      "pos": "v.",
+      "cn": "(使)转变,转换;(使)改变(宗",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "formal",
+      "phonetic": "/oml/",
+      "pos": "adj.",
+      "cn": "正规的,正式的;形式上的;不 | | 教或信仰7 齐的 | | /konvsw n .版依者",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "inform",
+      "phonetic": "/intfosm/",
+      "pos": "v.",
+      "cn": "6 581 5 5 TW PRS | | /11\\j",
+      "source_page": 14,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "perform",
+      "phonetic": "/palfotm/",
+      "pos": "",
+      "cn": "\"演出,表演; ts 执行;工作，",
+      "source_page": 15,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "prospect",
+      "phonetic": "/\"prospekt/",
+      "pos": "n.",
+      "cn": "前景,展望;希望;可能性 | 运转 /pralspekt/ v .勘探;寻找(商业机会)",
+      "source_page": 15,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "inspect",
+      "phonetic": "/in'spekt/",
+      "pos": "",
+      "cn": "\"仔细检查,检验;视察",
+      "source_page": 15,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "prospective",
+      "phonetic": "/pre'spektv/",
+      "pos": "adj.",
+      "cn": "有望的,预期的;潜在的",
+      "source_page": 15,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "inspector",
+      "phonetic": "/in'spekta(r)/",
+      "pos": "",
+      "cn": "检查员,视察员,巡视 —",
+      "source_page": 15,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "retrospect",
+      "phonetic": "/retrospelt/",
+      "pos": "",
+      "cn": "nm .回顾,回想,追湖往事 | 员;(警察)巡官 portray /pastre \"描写, 描绘;画(人物、景象",
+      "source_page": 15,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "expect",
+      "phonetic": "/tk'spekt/",
+      "pos": "",
+      "cn": "”预期;期待;要求,期望;猿想 等);扮演(角色) | expeulancy — /ik'spekvansi/ .预期;期竺;期望",
+      "source_page": 15,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "sculpture",
+      "phonetic": "VskalptJa(r)/",
+      "pos": "",
+      "cn": "mn .驹像;雕塑品",
+      "source_page": 15,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "iongcvity",
+      "phonetic": "/lon'dgevati/",
+      "pos": "",
+      "cn": "Au .长丰;持续时间 carve 7kaw ve» 2)",
+      "source_page": 15,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "prolong",
+      "phonetic": "Ipra'ioy/",
+      "pos": "v.",
+      "cn": "SEK",
+      "source_page": 15,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "describe",
+      "phonetic": "/di'skrarb/",
+      "pos": "v.",
+      "cn": "描述,形容,描写 | lengthy /egkeM adj 长时间的;宛长的",
+      "source_page": 15,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "depict",
+      "phonetic": "/dpikw/",
+      "pos": "v.",
+      "cn": "描绘;描写,描述,刻画",
+      "source_page": 15,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "aspect",
+      "phonetic": "/aspekt/",
+      "pos": "",
+      "cn": "方面;方位;外观,外表",
+      "source_page": 15,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "ascribe",
+      "phonetic": "/askrarb/",
+      "pos": "",
+      "cn": "\"把……归因于",
+      "source_page": 15,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "suspect",
+      "phonetic": "/'saspekt/",
+      "pos": "adj.",
+      "cn": "可疑的， 。 prescribe 。 /pri'skratb/ ， .给……开药(开处方);规定 | 有违法嫌疑的;不可信和的",
+      "source_page": 15,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "subscribe",
+      "phonetic": "/sab'skratb/",
+      "pos": "v.",
+      "cn": "猜想;怀疑 购(股份)",
+      "source_page": 15,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "suspicion",
+      "phonetic": "/salspyn/",
+      "pos": "n.",
+      "cn": "FEB ENE",
+      "source_page": 15,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "subscription",
+      "phonetic": "/sab'skrpfa/",
+      "pos": "n.",
+      "cn": "(报刊等的)订阅费;订阅",
+      "source_page": 15,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "susceptible",
+      "phonetic": "/sa'septobl/",
+      "pos": "adj.",
+      "cn": "易受影响的;易得病的 捐助",
+      "source_page": 15,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "spectator",
+      "phonetic": "/spektterta(r)/",
+      "pos": "",
+      "cn": "观看者,观众 script /sknpw m .剧本,讲稿;笔迹,手迹 vB",
+      "source_page": 15,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "respect",
+      "phonetic": "/mspek/",
+      "pos": "v.",
+      "cn": "尊敬;遵守 剧本 | respective 。 /rtspekuv/ adj .分别的,各自的",
+      "source_page": 15,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "manuscript",
+      "phonetic": "/manjuskript/",
+      "pos": "n.",
+      "cn": "手稿,原稿;手抄本",
+      "source_page": 15,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "spectacular",
+      "phonetic": "/spek'teekjala(r)/",
+      "pos": "adj.",
+      "cn": "壮观的;令人惊叹 。 transcript 。 /Itranskrrpt/ n 抄本;着本 | 的 .壮观的场面;精彩的表演",
+      "source_page": 15,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "manual",
+      "phonetic": "/maenjusl/",
+      "pos": "adj.",
+      "cn": "手工的;手动的;体力的",
+      "source_page": 15,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "spectacle",
+      "phonetic": "/spcktekl/",
+      "pos": "n.",
+      "cn": "ALIN 4% on SRR) PAS, a it",
+      "source_page": 15,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "prosperity",
+      "phonetic": "/pro'sperati/",
+      "pos": "v.",
+      "cn": "CAEL 8B) Xft | spectrum — /'spektrom/ nm. MLA A HH 88 OF 19) 范 产,成批制造 Je aE | 围,幅度,光谱,频谱 manufacturer /imaenju'facktfora(e) / n .生产者,制造者",
+      "source_page": 15,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "conspicuous",
+      "phonetic": "/kon'sprkjuos/",
+      "pos": "adj.",
+      "cn": "明显的,引人注目的 生产商",
+      "source_page": 15,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "despise",
+      "phonetic": "/4i'spaiz/",
+      "pos": "",
+      "cn": "_v EBL BERL",
+      "source_page": 15,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "mandate",
+      "phonetic": "/'maendert/",
+      "pos": "",
+      "cn": "\"强制执行;授权 HEAL",
+      "source_page": 15,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "scorn",
+      "phonetic": "/skoin/",
+      "pos": "n.",
+      "cn": "8 v $278. BBB NEBL (政府的)任期;委托书",
+      "source_page": 15,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "perspective",
+      "phonetic": "/pa'spektiv/",
+      "pos": "",
+      "cn": "角度,观点,看法;透视法",
+      "source_page": 15,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "emancipate",
+      "phonetic": "/:'maenstpert/",
+      "pos": "",
+      "cn": "_v .解放;使不受(法律政治 | 景观 或社会的束缚 | stance /",
+      "source_page": 15,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "stmnsi",
+      "phonetic": "stans/",
+      "pos": "",
+      "cn": "nm.(公开表明的)观点,立 。",
+      "source_page": 15,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "manoeuvre",
+      "phonetic": "/mainuve(r)/",
+      "pos": "",
+      "cn": "机动动作;策略,手段 | 场,看法;站次 maneuver ，扣纵,控制",
+      "source_page": 15,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "standpoint",
+      "phonetic": "/'staendpoint/",
+      "pos": "",
+      "cn": "nm立场,观点",
+      "source_page": 15,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "allecton",
+      "phonetic": "falfekn/",
+      "pos": "n.",
+      "cn": "感情;襄爱;爱情",
+      "source_page": 15,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "substance",
+      "phonetic": "/\"sabstons/",
+      "pos": "",
+      "cn": "mn U9 ts 312 5 SEB",
+      "source_page": 15,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "facility",
+      "phonetic": "/Ho'silati/",
+      "pos": "",
+      "cn": "me BEE 5 FIR 7 He",
+      "source_page": 15,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "stereotype",
+      "phonetic": "/'steristarp/",
+      "pos": "",
+      "cn": "nm .刻板印象,老一套",
+      "source_page": 15,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "infect",
+      "phonetic": "ntfekt/",
+      "pos": "",
+      "cn": "v4 5 RE | ?对……形成模式化(或类型化)的看法",
+      "source_page": 15,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "defect",
+      "phonetic": "/'disfelt/",
+      "pos": "",
+      "cn": "m 缺点,缺陷",
+      "source_page": 15,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "prototype",
+      "phonetic": "/ipreutetap/",
+      "pos": "v.",
+      "cn": "背叛,叛变 | speculate 。 /spekjulert/ ，猪测,推测;投机 effect AnfekM m ,生效;效果 \"实现;引起",
+      "source_page": 15,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "articulate",
+      "phonetic": "/a:'ukjulent/",
+      "pos": "v.",
+      "cn": "清楚地表达;口齿清楚",
+      "source_page": 15,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "void",
+      "phonetic": "/vaad/",
+      "pos": "adj.",
+      "cn": "无效的;缺乏……的“.空库 | 地计 感;空白 \"使无效 | /artkialet/ adj .能说会道的;清楚的",
+      "source_page": 15,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "take",
+      "phonetic": "/etk/",
+      "pos": "n.",
+      "cn": "假货;骗子“adj LH) ， .伪造 | 112/",
+      "source_page": 15,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "deceive",
+      "phonetic": "/di'sivw/",
+      "pos": "v.",
+      "cn": "SBR HL",
+      "source_page": 16,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "prove",
+      "phonetic": "/pru'w/",
+      "pos": "v.",
+      "cn": "证明,证实;显示",
+      "source_page": 16,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "perceive",
+      "phonetic": "/pa'siw/",
+      "pos": "",
+      "cn": "\"看待;察觉,发党",
+      "source_page": 16,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "proof",
+      "phonetic": "/pru:f/",
+      "pos": "adj.",
+      "cn": "1 1 #9 fe",
+      "source_page": 16,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "conceive",
+      "phonetic": "/kan'sivw/",
+      "pos": "",
+      "cn": "\"设想,构思;怀孕 防范的 把(某材料)作防水(油)处理 | conception /kenisepjny 器构思,设想;概念",
+      "source_page": 16,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "approve",
+      "phonetic": "/alpruw/",
+      "pos": "v.",
+      "cn": "性成,同意;批准",
+      "source_page": 16,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "detect",
+      "phonetic": "/datekt/",
+      "pos": "",
+      "cn": "， SES EBD OR",
+      "source_page": 16,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "sanction",
+      "phonetic": "/'stegkIn/",
+      "pos": "v.",
+      "cn": "批准",
+      "source_page": 16,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "scout",
+      "phonetic": "Jskavt/",
+      "pos": "n.",
+      "cn": "HES ORAL) v ARE 同意 | | pes",
+      "source_page": 16,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "testimony",
+      "phonetic": "/\"testumani/",
+      "pos": "n.",
+      "cn": "HEME 5 tA He AE 8) HE Tal",
+      "source_page": 16,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "appeal",
+      "phonetic": "Jalpil/",
+      "pos": "n.",
+      "cn": "OFF BOR LUE v 有吸引力; —",
+      "source_page": 16,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "testily",
+      "phonetic": "JMestufar/",
+      "pos": "v.",
+      "cn": "(尤指出庭)作证,证明 | | 呼吁;上诉",
+      "source_page": 16,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "witness",
+      "phonetic": "/watnas/",
+      "pos": "v.",
+      "cn": "使大为震惊,使售骇 为……作证",
+      "source_page": 16,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "accuse",
+      "phonetic": "/alkjuz/",
+      "pos": "v.",
+      "cn": "控告 PETE",
+      "source_page": 16,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "evidence",
+      "phonetic": "/ievdans/",
+      "pos": "n.",
+      "cn": "证据;迹象",
+      "source_page": 16,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "blame",
+      "phonetic": "/blerm/",
+      "pos": "v.",
+      "cn": "SE FE TE rebel [rebl/ n BIH | | | 责备区坏事或错事的)责任 /mrbel/ \"造反;反抗;背叛",
+      "source_page": 16,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "verdict",
+      "phonetic": "Vivadikt/",
+      "pos": "",
+      "cn": "(法庭作出的裁定,裁决;决",
+      "source_page": 16,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "valid",
+      "phonetic": "/vahd/",
+      "pos": "",
+      "cn": "adij.有效的;合理的,正当的 | | 定;意见",
+      "source_page": 16,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "invalid",
+      "phonetic": "inivahd/",
+      "pos": "adj.",
+      "cn": "无效的;站不住脚的",
+      "source_page": 16,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "convict",
+      "phonetic": "/ken'vikt/",
+      "pos": "v.",
+      "cn": "定罪,证明……有固 /mvehd/ mn 病弱者 | | /konvtkt/ 已决犯,服刑囚犯 legal /nigl/ adj .与法律有关的;合法的",
+      "source_page": 16,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "indict",
+      "phonetic": "/midar/",
+      "pos": "",
+      "cn": "， 控告,起诉",
+      "source_page": 16,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "illegal",
+      "phonetic": "aligl/",
+      "pos": "adj.",
+      "cn": "不合法的;非法的 n .非法移 | guilt /gw AK TOM AAT Rabe",
+      "source_page": 16,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "crime",
+      "phonetic": "/kratm/",
+      "pos": "n.",
+      "cn": "33 RAG",
+      "source_page": 16,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "legitimate",
+      "phonetic": "/htdsrumat/",
+      "pos": "adj.",
+      "cn": "正当合理的;合法的",
+      "source_page": 16,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "discriminate",
+      "phonetic": "/dnskrnmnert/",
+      "pos": "",
+      "cn": "y.区分,辨别;歧视;偏祖 legislate [Medgislert/ \"制定法律,立法",
+      "source_page": 16,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "prison",
+      "phonetic": "/iprzn/",
+      "pos": "",
+      "cn": "1 OR ESE 5 MEME",
+      "source_page": 16,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "enact",
+      "phonetic": "nmakt/",
+      "pos": "",
+      "cn": "， 扮演;通过(法律);实施",
+      "source_page": 16,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "imprison",
+      "phonetic": "/am'przn/",
+      "pos": "",
+      "cn": "\"监禁,关押束缚",
+      "source_page": 16,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "execule",
+      "phonetic": "/iekstkjut/",
+      "pos": "v.",
+      "cn": "JV RAI BOG",
+      "source_page": 16,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "executive",
+      "phonetic": "/igleckjouv/",
+      "pos": "",
+      "cn": "经理,主管:行政领导",
+      "source_page": 16,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "kidnap",
+      "phonetic": "\"kadnmp/",
+      "pos": "v.",
+      "cn": "& nth: BER adj 行政的,管理的",
+      "source_page": 16,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "hijack",
+      "phonetic": "\"hatdsmk/",
+      "pos": "v.",
+      "cn": "支持;操纵",
+      "source_page": 16,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "persecute",
+      "phonetic": "/\"passkjun/",
+      "pos": "",
+      "cn": "”迫害,残害;驭扰",
+      "source_page": 16,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "hack",
+      "phonetic": "/hak/",
+      "pos": "n.",
+      "cn": "BBY; ABE vA BE: ARTE BE —",
+      "source_page": 16,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "prosecute",
+      "phonetic": "/prostkjut/",
+      "pos": "",
+      "cn": "\"起诉,控告;检举 | | 人(他人的计算机系统)",
+      "source_page": 16,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "sequence",
+      "phonetic": "/'sitkwons/",
+      "pos": "v.",
+      "cn": "BE",
+      "source_page": 16,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "database",
+      "phonetic": "/rdertsbars/",
+      "pos": "",
+      "cn": "(储存在计算机中的?数据库 EAE",
+      "source_page": 16,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "smuggle",
+      "phonetic": "/'smagl/",
+      "pos": "",
+      "cn": "， 走私,偷运",
+      "source_page": 16,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "consequence",
+      "phonetic": "/‘konsikwons/",
+      "pos": "v.",
+      "cn": "抢劫,掠夺;盗取",
+      "source_page": 16,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "subsequent",
+      "phonetic": "/'sabsikwont/",
+      "pos": "adj.",
+      "cn": "随后的;后来的",
+      "source_page": 16,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "grab",
+      "phonetic": "/greb/",
+      "pos": "v.",
+      "cn": "STA HEI",
+      "source_page": 16,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "judge",
+      "phonetic": "/dgnds/",
+      "pos": "",
+      "cn": "mn法官;裁判员;鉴定人 vA",
+      "source_page": 16,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "snatch",
+      "phonetic": "/snztdf/",
+      "pos": "",
+      "cn": "nm.抓;抢夺 ，.一把抓起,一下 断,断定 | | 村过",
+      "source_page": 16,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "judicial",
+      "phonetic": "Jdgu:'dufi/",
+      "pos": "adj.",
+      "cn": "审判的:法庭的,法官的;司",
+      "source_page": 16,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "snap",
+      "phonetic": "/snamp/",
+      "pos": "adj.",
+      "cn": "",
+      "source_page": 16,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "justice",
+      "phonetic": "/dsastus/",
+      "pos": "",
+      "cn": "m .公平;正义;司法制度;审判 | | 促的 justify J 'dgastifar/ vii Bi +--+ A IE AY 5 Hove",
+      "source_page": 16,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "penalty",
+      "phonetic": "/'penalti/",
+      "pos": "v.",
+      "cn": "控告;提起诉讼",
+      "source_page": 16,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "adjust",
+      "phonetic": "/aldsAst/",
+      "pos": "v.",
+      "cn": "SE WORE I 5 ChE 3",
+      "source_page": 16,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 4,
+      "word": "ensue",
+      "phonetic": "/inisju/",
+      "pos": "v.",
+      "cn": "eM Be Me 5 LT Ae court /kary nm 丢院,法庭;球场 THE HR | lawsuit [Morsuct/ nm 诉讼,超诉 招致;恋爱 | | /131",
+      "source_page": 16,
+      "ocr_needs_check": true
+    }
+  ]
+}

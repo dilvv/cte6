@@ -1,0 +1,1259 @@
+{
+  "title": "英语六级核心词 Unit 3",
+  "unit": 3,
+  "count": 138,
+  "source_note": "Unit 1 为先前整理；Unit 2-10 由上传 PDF 图片 OCR 自动提取，存在少量识别错误，建议后续人工校对。",
+  "fields": [
+    "unit",
+    "word",
+    "phonetic",
+    "pos",
+    "cn",
+    "source_page",
+    "ocr_needs_check"
+  ],
+  "words": [
+    {
+      "unit": 3,
+      "word": "sacrifice",
+      "phonetic": "/'seckrafaus/",
+      "pos": "v.",
+      "cn": "ABVHE WI",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "endow",
+      "phonetic": "/in'dav/",
+      "pos": "adj.",
+      "cn": "SBN ARRAY adv 极其,非常",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "charity",
+      "phonetic": "/arati/",
+      "pos": "",
+      "cn": "nm B56 MOLD 5 HE",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "maintain",
+      "phonetic": "/memttem/",
+      "pos": "",
+      "cn": "\"维持,保持;保养;坚持(意见) | contribute /",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "kon'tribjuty",
+      "phonetic": "kontnbjut/",
+      "pos": "v.",
+      "cn": "4H MR 48MM",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "maintenance",
+      "phonetic": "/'memtonons/",
+      "pos": "n.",
+      "cn": "主流思想;主流税体",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "tribute",
+      "phonetic": "/nbju/",
+      "pos": "",
+      "cn": "GLAM Mb EER BAHL HA",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "rermain",
+      "phonetic": "/nmern/",
+      "pos": "v.",
+      "cn": "ARS RAE AE AE 5 BAF",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "attribute",
+      "phonetic": "/itrnbjur/",
+      "pos": "",
+      "cn": "属性,特征",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "remainder",
+      "phonetic": "/rs'memda(r)/",
+      "pos": "",
+      "cn": "，.铀余物,剩余部分; 差 | | /attrtbjut/ AB + ABLE 数;余数",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "distribute",
+      "phonetic": "/distrtbjut/",
+      "pos": "v.",
+      "cn": "分发,分配",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "remnant",
+      "phonetic": "Viremnent/",
+      "pos": "n.",
+      "cn": "残余部分,剩余部分",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "transmit",
+      "phonetic": "/trmnzmat/",
+      "pos": "",
+      "cn": "\"传送,输送;传播;传染",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "retain",
+      "phonetic": "/ntetn/",
+      "pos": "v.",
+      "cn": "保持;保留",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "freight",
+      "phonetic": "/frert/",
+      "pos": "",
+      "cn": "货物 y.运送(货物)",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "detain",
+      "phonetic": "Jat'tern/",
+      "pos": "v.",
+      "cn": "308% OH",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "admit",
+      "phonetic": "/sdmi/",
+      "pos": "",
+      "cn": "承认;准许…\"…进入;接收(人学)",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "sustain",
+      "phonetic": "/salsten/",
+      "pos": "",
+      "cn": "维持(生合生存);支持:去",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "admittedly",
+      "phonetic": "/ad'mrtidli/",
+      "pos": "adv.",
+      "cn": "诚然,无可否认 REE",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "acknowledge",
+      "phonetic": "/ok'nolrds/",
+      "pos": "v.",
+      "cn": "承认;告知收到;公开)感谢",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "attain",
+      "phonetic": "/attern/",
+      "pos": "",
+      "cn": "w(通常指经过努力)获得;达到，",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "permit",
+      "phonetic": "/paimit/",
+      "pos": "v.",
+      "cn": "允许,准许;使有可能 实现 | | \"pamrt/ nm .许可证",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "entertan",
+      "phonetic": "/entottern/",
+      "pos": "",
+      "cn": "vw-(尤指在自己家中)招待;使 | submit J sob! mit/ ， 提交,呈递;服从 快乐,娱乐",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "submissive",
+      "phonetic": "/sab!misiv/",
+      "pos": "adj.",
+      "cn": "服从的,台服的;昕话的 bastime 。 /pastuutn/ AAA» ARIAS",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "commission",
+      "phonetic": "/ke'mifn/",
+      "pos": "",
+      "cn": "委员会;佣金,回扣;(尤指艺 。",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "recreation",
+      "phonetic": "/urekri‘eufn/",
+      "pos": "v.",
+      "cn": "委托",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "amuse",
+      "phonetic": "Jolmjuze/",
+      "pos": "v.",
+      "cn": "SBIR 5B | committee — /kelmiti/ n RAS",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "amaze",
+      "phonetic": "Jalmesz/",
+      "pos": "v.",
+      "cn": "BURA HHS",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "dismiss",
+      "phonetic": "/ds'imis/",
+      "pos": "",
+      "cn": "\"拒绝考虑;开除,解雇;解散",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "startle",
+      "phonetic": "/'stoitl/",
+      "pos": "v.",
+      "cn": "ABER ETE — Be",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "dismlssal",
+      "phonetic": "/dis'musl/",
+      "pos": "n.",
+      "cn": "FEM ARF RS",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "obtain",
+      "phonetic": "Jobltein/",
+      "pos": "",
+      "cn": "*.(尤指经努力)获得,赢得 | mission /nmJay mn使命,任务;使团,代表团",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "disturb",
+      "phonetic": "Jar'stsib/",
+      "pos": "v.",
+      "cn": "STE FEAL MARE",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "summit",
+      "phonetic": "samat/",
+      "pos": "",
+      "cn": "DLA s Us A ES",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "disturbance",
+      "phonetic": "/dr'stsibons/",
+      "pos": "",
+      "cn": "m (3E)-Ftk s MAL",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "climax",
+      "phonetic": "/elamaeks/",
+      "pos": "n.",
+      "cn": "DUR FM",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "offend",
+      "phonetic": "/afend/",
+      "pos": "v.",
+      "cn": "48-9 7 58 5 TLE",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "peak",
+      "phonetic": "/pik/",
+      "pos": "n.",
+      "cn": "UR ie ， RELA TBI",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "defend",
+      "phonetic": "/difend/",
+      "pos": "adj.",
+      "cn": "RE BE OY",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "intrude",
+      "phonetic": "/ro'teusd/",
+      "pos": "v.",
+      "cn": "Be BR OTA AUD",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "invade",
+      "phonetic": "Jin'verd/",
+      "pos": "v.",
+      "cn": "AM ABE A",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "omit",
+      "phonetic": "/amr/",
+      "pos": "",
+      "cn": "vA BR 5 22",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "shield",
+      "phonetic": "/Jild/",
+      "pos": "n.",
+      "cn": "SER) AR A HEN v AR | intermittent — /unta'matont/ adj 断断续续的,间歇的",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "helmet",
+      "phonetic": "Mhelmit/",
+      "pos": "n.",
+      "cn": "dee BP",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "commit",
+      "phonetic": "Jko'mit/",
+      "pos": "v.",
+      "cn": "JRCEBBRARAR) VAG ARIE — safeguard 。 /iserfga:d/ n AR REAR RP HE v AR",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "suicide",
+      "phonetic": "/'suasaid/",
+      "pos": "",
+      "cn": "nm .自杀 护,保卫",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "pesticide",
+      "phonetic": "/ipesusard/",
+      "pos": "n.",
+      "cn": "杀虫剂,农药",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "guard",
+      "phonetic": "/go:d/",
+      "pos": "n.",
+      "cn": "卫兵,警卫;警戒,保卫 v.守卫",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "precise",
+      "phonetic": "/pmisats/",
+      "pos": "adj.",
+      "cn": "准确的,精确的;明确的 防守",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "concise",
+      "phonetic": "/kan'sats/",
+      "pos": "adj.",
+      "cn": "简明的;简洁的",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "regard",
+      "phonetic": "/rtgpd/",
+      "pos": "",
+      "cn": "nee Ev 将……认为;看",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "subtie",
+      "phonetic": "JIsatl/",
+      "pos": "adj.",
+      "cn": "微妙的,敏锐的 待,注视 | | /07",
+      "source_page": 10,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "regarding",
+      "phonetic": "/n'gu:dig/",
+      "pos": "prep.",
+      "cn": "关于,至于",
+      "source_page": 11,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "profile",
+      "phonetic": "/iproaofatl/",
+      "pos": "adv.",
+      "cn": "不顾;不管怎样 面部的侧影",
+      "source_page": 11,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "endanger",
+      "phonetic": "/ndemdsa(D/",
+      "pos": "",
+      "cn": "vf; Bef",
+      "source_page": 11,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "previous",
+      "phonetic": "/'pritvios/",
+      "pos": "adj.",
+      "cn": "先前的,以前的",
+      "source_page": 11,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "hazard",
+      "phonetic": "Pbraexad/",
+      "pos": "adj.",
+      "cn": "Mii #7 TE AY 5 RAT 0 He | harass /\"bacros; ho'raes/ v ARH s BEM 5 76 ii ed 行的 | BOO",
+      "source_page": 11,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "pop",
+      "phonetic": "/pop/",
+      "pos": "v.",
+      "cn": "Bids «A SB A ady tr Bs | stake Yetetle mB MEE ho FT 通俗的 nT ER | PTs",
+      "source_page": 11,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "prevail",
+      "phonetic": "/pri'verl/",
+      "pos": "v.",
+      "cn": "JRA URE s BEM » ARM EL",
+      "source_page": 11,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "venture",
+      "phonetic": "V'ventjo(r)/",
+      "pos": "",
+      "cn": "1m SUPE Bh 5 2 BOAT IE. fh",
+      "source_page": 11,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "avail",
+      "phonetic": "/o'verl/",
+      "pos": "",
+      "cn": "nm ,效用;利益 vA HEBD AE | FBR va SB SA 利用",
+      "source_page": 11,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "adventure",
+      "phonetic": "/ad'ventJaCr)/",
+      "pos": "",
+      "cn": "nm $F BO QBs LIES",
+      "source_page": 11,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "availability",
+      "phonetic": "/orverlo'biloti/",
+      "pos": "",
+      "cn": "m .可用性;实用性",
+      "source_page": 11,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "experlence",
+      "phonetic": "/tk'sprorions/",
+      "pos": "v.",
+      "cn": "经 proficient —/pro!fifne/ adji.错练的;精通的;训练有 | 历,体验 Re",
+      "source_page": 11,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "advent",
+      "phonetic": "Jaedvent/",
+      "pos": "n.",
+      "cn": "BBB AE AAD Be ONE ND artificial Soot\" Lfl/ adj ATA» Ay 9 5 AE BLES | 出现;到来",
+      "source_page": 11,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "sufficient",
+      "phonetic": "/solfifnt/",
+      "pos": "adj.",
+      "cn": "足够的,充足的",
+      "source_page": 11,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "vent",
+      "phonetic": "Jvent/",
+      "pos": "",
+      "cn": "4.(空气`气体、液体的)出口,进口",
+      "source_page": 11,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "suffice",
+      "phonetic": "/sa'fas/",
+      "pos": "v.",
+      "cn": "发泄(感情,尤指愤怒) efficient MV hifnt/ adj 效率高的;有能力的",
+      "source_page": 11,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "ventlate",
+      "phonetic": "/'ventilert/",
+      "pos": "",
+      "cn": "， 使通风;(用呼吸机?给……",
+      "source_page": 11,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "deficient",
+      "phonetic": "/dnfyatv/",
+      "pos": "adj.",
+      "cn": "缺乏的;有缺陷的 | 供氧",
+      "source_page": 11,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "deficiency",
+      "phonetic": "/dnfyjnsi/",
+      "pos": "",
+      "cn": "nm.缺乏;缺点",
+      "source_page": 11,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "circulate",
+      "phonetic": "/saikjolert/",
+      "pos": "v.",
+      "cn": "(使)循环;传播 flaw /ay nv SESBE Bi IT | circuit J sackun/ .环形道路;环行;电路,巡回 drawback 。 /drorbmk/ “缺点;不利条件",
+      "source_page": 11,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "whirl",
+      "phonetic": "/watl/",
+      "pos": "v.",
+      "cn": "旋转",
+      "source_page": 11,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "setback",
+      "phonetic": "/'setbeck/",
+      "pos": "",
+      "cn": "挫折,阻碍 | Het RMD IAL",
+      "source_page": 11,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "handicap",
+      "phonetic": "/\"haendikeep/",
+      "pos": "",
+      "cn": "残疾;障碍,生理缺陷",
+      "source_page": 11,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "gamble",
+      "phonetic": "J'gembl/",
+      "pos": "",
+      "cn": "nM vB REE 妨碍",
+      "source_page": 11,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "jeopardy",
+      "phonetic": "/dsepedi/",
+      "pos": "",
+      "cn": "me .危险,风险;危险处境 fault /fodM 责任:过失;缺点;故障 AR A",
+      "source_page": 11,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "peril",
+      "phonetic": "J'poral/",
+      "pos": "",
+      "cn": "na .巨大的危险,危难 缺点 | fortune Vfayuny 4机会,运气;巨款;命运 default /dfody 1 违约;拖欠;术语)默认 vi | misfortune 。 /imis'fortfuin/ n ,不幸;不幸的事故;厄运 约;不履行义务",
+      "source_page": 11,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "mislead",
+      "phonetic": "/mus'lid/",
+      "pos": "",
+      "cn": "\"误导,引入歧途",
+      "source_page": 11,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "infringe",
+      "phonetic": "/in'frmds/",
+      "pos": "",
+      "cn": "违反(法律),侵犯(他人权",
+      "source_page": 11,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "steer",
+      "phonetic": "/sto(D/",
+      "pos": "v.",
+      "cn": "驾驶;引导 利)",
+      "source_page": 11,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "pretext",
+      "phonetic": "/'prictekst/",
+      "pos": "n.",
+      "cn": "{RO #8",
+      "source_page": 11,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "breach",
+      "phonetic": "/britJ/",
+      "pos": "v.",
+      "cn": "REA sR COR",
+      "source_page": 11,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "protest",
+      "phonetic": "/'provtest/",
+      "pos": "",
+      "cn": "于,抗议,反对;抗议活动",
+      "source_page": 11,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "refer",
+      "phonetic": "Vrnfa:(D/",
+      "pos": "v.",
+      "cn": "RE RE SH BER | J pro'test/ v CAFE) RR HX",
+      "source_page": 11,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "reference",
+      "phonetic": "/\"refrons/",
+      "pos": "n.",
+      "cn": "kB: SH BAA",
+      "source_page": 11,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "contest",
+      "phonetic": "/'kontest/",
+      "pos": "n.",
+      "cn": "竞争;比赛",
+      "source_page": 11,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "referee",
+      "phonetic": "Jirefo'ris/",
+      "pos": "",
+      "cn": "nm ,裁判员;介绍人;推荐人 | /kon'test/ ， 争辩 ，.当裁判",
+      "source_page": 11,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "provoke",
+      "phonetic": "/prolveuk/",
+      "pos": "",
+      "cn": "\"激起,引起;激怒",
+      "source_page": 11,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "confer",
+      "phonetic": "Vken'fa(D/",
+      "pos": "v.",
+      "cn": "协商;授予(奖项,学位、荣",
+      "source_page": 11,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "evoke",
+      "phonetic": "veuk/",
+      "pos": "",
+      "cn": "， 引起,唤起(感情,记忆或形象) 普或权利》",
+      "source_page": 11,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "advocate",
+      "phonetic": "/Iaedvokot/",
+      "pos": "",
+      "cn": "m 支持者;辩护律师",
+      "source_page": 11,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "fertile",
+      "phonetic": "/\"fostaal/",
+      "pos": "adj.",
+      "cn": "肥沃的;能结果的 | /edvnkert/ \"支持;提倡",
+      "source_page": 11,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "infer",
+      "phonetic": "/mifs(D/",
+      "pos": "v.",
+      "cn": "AE",
+      "source_page": 11,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "profound",
+      "phonetic": "/pro'faund/",
+      "pos": "adj.",
+      "cn": "EX fi); BEE 0; MLM",
+      "source_page": 11,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "denote",
+      "phonetic": "/di'novt/",
+      "pos": "",
+      "cn": "\"意指;表示,代表 | Jo8/",
+      "source_page": 11,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "imply",
+      "phonetic": "/um'plar/",
+      "pos": "v.",
+      "cn": "暗示,暗指;意味着 object /obdgikt; 'vbdgekt/ n.99 db » ROG HRs",
+      "source_page": 12,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "implication",
+      "phonetic": "/amphi'kerfn/",
+      "pos": "",
+      "cn": "na.可能的影响(后果);含 RR | 意,暗示;牵涉,牵连 /ab'dsekt/ \"反对",
+      "source_page": 12,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "implicit",
+      "phonetic": "/vm'phsit/",
+      "pos": "adj.",
+      "cn": "BMWs AAW: RAH",
+      "source_page": 12,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "stutf",
+      "phonetic": "/stAf/",
+      "pos": "",
+      "cn": "东西,物品;事情 ，v装满; | 中的 oe RENE PERE",
+      "source_page": 12,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "explicit",
+      "phonetic": "/ik'splistt/",
+      "pos": "adj.",
+      "cn": "清楚明确的;直截了当的",
+      "source_page": 12,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "staff",
+      "phonetic": "/sto:f/",
+      "pos": "adj.",
+      "cn": "精美的,精致。 personnel 。 /psselnel/ C42 BRE BA FY) AB | 的;雅致的;敏锐的 员;人事部",
+      "source_page": 12,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "elicit",
+      "phonetic": "Anhstt/",
+      "pos": "v.",
+      "cn": "引出;探出",
+      "source_page": 12,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "subject",
+      "phonetic": "/sebldsekt/",
+      "pos": "v.",
+      "cn": "使顺从,使臣服",
+      "source_page": 12,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "manifest",
+      "phonetic": "/maennfest/",
+      "pos": "v.",
+      "cn": "表明显现。 adj,明显的; /sabdsikt; 'sabd3ckt/ m .主题;科目; BF | 显而易见的 .(船`飞机的)旅客名单; 究、采访等的)对象 adj .可能受……影响 | 货单 的;易遭受……的",
+      "source_page": 12,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "indicate",
+      "phonetic": "/nndkert/",
+      "pos": "v.",
+      "cn": "表明,显示;指出;指示",
+      "source_page": 12,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "eject",
+      "phonetic": "/adsekt/",
+      "pos": "",
+      "cn": "， JMG i 04 BURL Sa",
+      "source_page": 12,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "indicative",
+      "phonetic": "/in'dikotiy/",
+      "pos": "adj.",
+      "cn": "-象征的;表明的,指示的",
+      "source_page": 12,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "visual",
+      "phonetic": "/wsual/",
+      "pos": "adj.",
+      "cn": "视力的,视觉的 nn BUI BEE | ni) RIE",
+      "source_page": 12,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "devise",
+      "phonetic": "/dtvarz/",
+      "pos": "",
+      "cn": "\"设计,发明,想出",
+      "source_page": 12,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "mnaicator",
+      "phonetic": "/nndiketts(r)/",
+      "pos": "",
+      "cn": "ma.指示物;指示者;指针",
+      "source_page": 12,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "device",
+      "phonetic": "Vdnvars/",
+      "pos": "",
+      "cn": "装置,仪器;手段 | (汽车的)转向指示灯",
+      "source_page": 12,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "revise",
+      "phonetic": "/mvarz/",
+      "pos": "v.",
+      "cn": "BCE Bs 52 TT OCHA)",
+      "source_page": 12,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "demonstrate",
+      "phonetic": "/'demanstrert/",
+      "pos": "",
+      "cn": "证明,说明;演示;示威游 visualise -",
+      "source_page": 12,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "ize",
+      "phonetic": "/‘visualaiz/",
+      "pos": "",
+      "cn": "\"想象,构思,设想 | 行;表现",
+      "source_page": 12,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "envlsage",
+      "phonetic": "/in'vind3/",
+      "pos": "",
+      "cn": "_v 设想,展望",
+      "source_page": 12,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "illustrate",
+      "phonetic": "/nlsstrett/",
+      "pos": "v.",
+      "cn": "CFRAR Gi, FATE) BE BA AE",
+      "source_page": 12,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "vision",
+      "phonetic": "J'vign/",
+      "pos": "",
+      "cn": "m BRD BUEE 5 AB» 21 AB CHa BLD | | deduce (di'djuis/ \"推论,推断,演绎 图像",
+      "source_page": 12,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "introduce",
+      "phonetic": "/untro'djuss/",
+      "pos": "",
+      "cn": "， 介绍;采用;引进",
+      "source_page": 12,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "visible",
+      "phonetic": "Viwrzabl/",
+      "pos": "adj.",
+      "cn": "看得见的,可见的;明显的 | | deduct (/di'dakt/ .扣除,减去 interview J ntavjur/ n. & v 面试;采访;会见 | | ‘",
+      "source_page": 12,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "conduct",
+      "phonetic": "/kon'dake/",
+      "pos": "v.",
+      "cn": "预演;预展;写预评 on Bs | /kondakt/ n 行为;经营方式;实施办法 预展",
+      "source_page": 12,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "conducive",
+      "phonetic": "/ken'djusrw/",
+      "pos": "adj.",
+      "cn": "有助于……,有益于…",
+      "source_page": 12,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "interfere",
+      "phonetic": "/mtatfe(rm/",
+      "pos": "",
+      "cn": "\"干涉,干预",
+      "source_page": 12,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "induce",
+      "phonetic": "/in'djus/",
+      "pos": "v.",
+      "cn": "30% Es 31",
+      "source_page": 12,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "intervene",
+      "phonetic": "Vantalvin/",
+      "pos": "v.",
+      "cn": "FBSA ATS MI 5",
+      "source_page": 12,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "seduce",
+      "phonetic": "Vsndjus/",
+      "pos": "",
+      "cn": "引诱,诱惑;诱奸;勾引",
+      "source_page": 12,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "interact",
+      "phonetic": "Vonterlekt/",
+      "pos": "v.",
+      "cn": "引诱,诱惑,吸引 作用",
+      "source_page": 12,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "tempt",
+      "phonetic": "/tempt/",
+      "pos": "n.",
+      "cn": "/ .相互作用;交流;互动",
+      "source_page": 12,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "attempt",
+      "phonetic": "Vanempt/",
+      "pos": "n.",
+      "cn": "& v 企图,试图,党斌",
+      "source_page": 12,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "supervise",
+      "phonetic": "/suspovana//",
+      "pos": "",
+      "cn": "监督;管理;指导",
+      "source_page": 12,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "temptation",
+      "phonetic": "/templtejn/",
+      "pos": "",
+      "cn": "mn .引诱,诱惑 supervisor 。 /suspavanza(D/ .监督人;指导者;主管",
+      "source_page": 12,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "inject",
+      "phonetic": "/in'dgekt/",
+      "pos": "v.",
+      "cn": "(给……) 注射(药物等); —",
+      "source_page": 12,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "monitor",
+      "phonetic": "/montta(r)/",
+      "pos": "",
+      "cn": "BEAK, MO BEA 5 Sib 8 BE, | (给……)投入(资金) 视器 ，监视,监督;检查;监听",
+      "source_page": 12,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "project",
+      "phonetic": "/'prodgekt/",
+      "pos": "n.",
+      "cn": "项目;方案;工程;计划 superior /su:'prorior) / adj (在品质上)更好的;更 | Vpreldsekt/ ， .预计,推想;计划;表现(自 强的;(在级别、重要性或职位上)更高的 | 己) on .级别(或地位、职位)更高的人;上级,上司",
+      "source_page": 12,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "reject",
+      "phonetic": "/ni'dgekt/",
+      "pos": "v.",
+      "cn": "SEI AAs BF AF 1B FEMS",
+      "source_page": 12,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "inferior",
+      "phonetic": "/in'froriar)/",
+      "pos": "adj.",
+      "cn": "级别低的,下级的;较差 | 接受 的,次的 mn.(能力或地位)低于他人者， | Virixdsekt/ “废品;不合格者,被拒收者 下属 ,下级",
+      "source_page": 12,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "refusal",
+      "phonetic": "/eifjuiel/",
+      "pos": "n.",
+      "cn": "拒绝,回绝",
+      "source_page": 12,
+      "ocr_needs_check": true
+    },
+    {
+      "unit": 3,
+      "word": "superb",
+      "phonetic": "/sur'psb/",
+      "pos": "adj.",
+      "cn": "极佳的,齐越的,出色的 | | /09",
+      "source_page": 12,
+      "ocr_needs_check": true
+    }
+  ]
+}
